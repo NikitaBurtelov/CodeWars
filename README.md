@@ -1,4 +1,4 @@
-# CodeWars
+# Twice Linear
 
 Consider a sequence u where u is defined as follows:
 
