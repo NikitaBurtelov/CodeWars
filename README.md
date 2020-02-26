@@ -9,6 +9,7 @@ Write a function that takes an integer and returns a list of strings with a line
 Below is an example function:
 
 get_w(3) # should return:
+
 [
 '*   *   *',
 ' * * * * ',
@@ -16,6 +17,7 @@ get_w(3) # should return:
 ]
 
 get_w(5) # should return:
+
 [
 '*       *       *',
 ' *     * *     * ',
