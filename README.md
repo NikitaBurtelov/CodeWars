@@ -10,14 +10,18 @@ Below is an example function:
 
 get_w(3) # should return:
 
-[\
-'*   *   *',\
-' * * * * ',\
-'  *   *  '\
-]\
+\
+```
+[
+'*   *   *',
+' * * * * ', 
+'  *   *  '
+]
+```
+\
 
 get_w(5) # should return:
-
+```
 [
 '*       *       *',
 ' *     * *     * ',
@@ -25,4 +29,5 @@ get_w(5) # should return:
 '   * *     * *   ',
 '    *       *    '
 ]
+```
 Return an empty list for height < 2.
