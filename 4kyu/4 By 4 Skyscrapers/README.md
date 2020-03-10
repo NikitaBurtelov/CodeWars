@@ -2,4 +2,4 @@
 
 ![][logo]
 
-[logo]: C:\Users\user\Desktop\rPIZNTObuAY.jpg "Logo text"
+[logo]: image\rPIZNTObuAY.jpg "Logo text"
